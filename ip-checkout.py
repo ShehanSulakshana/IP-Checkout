@@ -1,3 +1,6 @@
+# SCRIPT CODED BY SHEHAN SULAKSHANA
+# FOLLOW ME ON GITHUB & IF YOU ARE SATISFIED STAR MY REPOSITORIES ❤️
+
 import requests,json,os ,pyfiglet , socket ,os
 from colorama import Fore ,Style ,Back
 
